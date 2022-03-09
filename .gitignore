@@ -1,0 +1,15 @@
+# [LOCAL ONLY]
+# playground file(s) not meant for version control
+.tmp/
+
+# [DISTRIBUTION BUILD FOLDER]
+# Forcir (recommended) output folder
+dist/
+
+# [TESTING]
+# output of running tests with coverage logging enabled
+coverage/
+
+# [DEPENDENCIES]
+# node (npm)
+node_modules/

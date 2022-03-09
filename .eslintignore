@@ -1,0 +1,4 @@
+.forcir-tmp/
+coverage/
+dist/
+tests/

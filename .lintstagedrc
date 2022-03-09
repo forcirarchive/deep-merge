@@ -1,0 +1,8 @@
+{
+  "*.{ts,tsx,js}": [
+    "yarn lint --quiet"
+  ],
+  "*.{ts,tsx,js,json,graphql,md}": [
+    "yarn format --write"
+  ]
+}
