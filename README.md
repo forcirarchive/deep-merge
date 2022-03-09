@@ -50,7 +50,7 @@ console.log(merged);
 //   foo: false,
 //   bar: true,
 //   baz: {
-//     collection: [1,2, 3, 4],
+//     collection: [1, 2, 3, 4],
 //   },
 // };
 ```
