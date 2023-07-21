@@ -1,3 +1,6 @@
+> **Warning**
+> This library has been moved & improved. See [forcir/object-deep-merge](https://github.com/forcir/object-deep-merge)
+
 <p align="center"></p>
 <div align="center">
   <a href="https://www.forcir.com/#gh-light-mode-only" target="_blank">
